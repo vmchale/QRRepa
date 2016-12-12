@@ -1,6 +1,6 @@
 {-#LANGUAGE OverloadedStrings #-}
 
-import Data.QRCodes
+import Data.QRCodes.Repa
 import qualified Data.ByteString as B
 import System.Environment (getArgs)
 

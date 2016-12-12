@@ -1,1 +1,2 @@
-Applicative options parser
+- [ ] Applicative options parser
+- [ ] figure out JuicyPixels for writing/reading to file
